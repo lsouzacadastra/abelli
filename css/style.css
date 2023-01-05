@@ -7,7 +7,7 @@ h1,h2,h3,h4,h5,h6 { font-family: 'Italiana', serif !important; }
 .img100 { width: 100%; margin: 0 auto; display: block; height: 300px; margin-top: -80px; object-fit: cover; position: relative; z-index: -1; }
 
 @media only screen and (max-width:899px) {
-    .img100 { height: 100px; }
+    .img100 { height: 100px; margin-top: -20px; }
 }
 
 .content { display: flex; justify-content: space-between; align-items: center; width: 68%; margin: 0 auto; }
